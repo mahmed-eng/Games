@@ -64,11 +64,11 @@ The score increments by 1 for each enemy destroyed.
 When the game ends (i.e., when an enemy collides with the player), a "Game Over" message will appear with a button to restart the game.
 
 ## Screenshots
-![Game Screenshot](0.jpg)
+![Game Screenshot](Screen Shots/0.jpg)
 
 
 ## License
-This project is open source and available under the MIT License.
+This project is open source and available.
 
 ## Acknowledgements
 Thanks to HTML5, CSS3, and JavaScript for their versatility in creating browser-based games.
