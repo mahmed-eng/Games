@@ -4,15 +4,19 @@ This is a classic Space Invaders game built using HTML5, CSS, and JavaScript. Th
 ## Features
 Player Spaceship: Move left and right, shoot bullets with the spacebar.
 
-### Enemy Spaceships: 
+## Enemy Spaceships: 
 Move downward, spawn randomly, and can be destroyed by bullets.
-### Collision Detection: 
+
+## Collision Detection: 
 Collisions between bullets and enemies increase the score, while colliding with an enemy ends the game.
-### Score: 
+
+## Score: 
 Displays the player's score based on the number of enemies destroyed.
-### Game Over: 
+
+## Game Over: 
 The game ends when an enemy collides with the player's spaceship.
-### Background:
+
+## Background:
 Animated stars for a dynamic space environment.
 
 ## How to Play
