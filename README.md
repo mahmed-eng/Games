@@ -64,7 +64,7 @@ The score increments by 1 for each enemy destroyed.
 When the game ends (i.e., when an enemy collides with the player), a "Game Over" message will appear with a button to restart the game.
 
 ## Screenshots
-![Game Screenshot](Screen Shots/0.jpg)
+![Game Screenshot](Games/Screen Shots/0.jpg)
 
 
 ## License
